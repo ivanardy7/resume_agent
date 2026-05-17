@@ -1,0 +1,8 @@
+langchain>=1.2.15
+langchain-openai>=1.2.0
+langchain-qdrant>=1.1.0
+langgraph>=1.1.9
+streamlit>=1.51.0
+pandas>=2.3.3
+qdrant-client>=1.17.1
+python-dotenv>=1.0.0

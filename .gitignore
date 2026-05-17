@@ -1,0 +1,27 @@
+# secrets
+.env
+.streamlit/secrets.toml
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# local files
+.venv/
+venv/
+env/
+.DS_Store
+desktop.ini
+.conda/
+.vscode/
+
+# folder capstone assignment (tidak perlu diupload ke repo publik)
+other/
+
+# dataset terlalu besar untuk GitHub (50MB+)
+Resume.csv
+*.csv
+*.xlsx
